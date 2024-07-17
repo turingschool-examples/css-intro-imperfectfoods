@@ -19,11 +19,12 @@ You will be recreating a piece of [this site](https://web.archive.org/web/202201
 - Don't worry about the worn design in the background. We will just make the background one solid color.
 
 ### Iteration 1 (after `CSS: Fundamentals` lesson):
+- Do *not* worry about the layout (where elements are on the page) yet! We'll get to that after your Flexbox lesson.
 - Make the text match the font and sizing from the comp
 - Make the colors match the comp
 - Make the image sizes match the comp
 - Style the button to match the comp
-- Do not worry about the layout (where elements are on the page) yet! We'll get to that after your Flexbox lesson.
+
 
 ### Iteration 2 (after `CSS: Flexbox` lesson):
 - Use flexbox to make the layout match the comp (hint: you may need to add container elements to your HTML to group the `img`, `h2`, and `p` elements)
