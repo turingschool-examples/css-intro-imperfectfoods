@@ -32,9 +32,12 @@ You will be recreating a piece of [this site](https://web.archive.org/web/202201
 ### Iteration 2 (`CSS: Flexbox` lesson):
 GOAL: Use flexbox to control where the elements are on the page in order to make the layout match the comp.  
 
-Hint: You may need to add container elements to your HTML to group the `img`, `h2`, and `p` elements that you're trying to adjust the layout of.  
-Hint: If you have similar containers holding similar items that you want to layout in a similar way, maybe those containers should all share a class so the flex styling you apply gets applied to all of them.  
-Hint: While some of the layout work will require flexbox properties, there may be other CSS properties you need to tweak as well to fully match the spacing and layout of the comp.  `text-align`, `padding`, `margin`, `width`, etc  
+Hint:  
+- You may need to add container elements to your HTML to group the `img`, `h2`, and `p` elements that you're trying to adjust the layout of.  
+Hint:  
+- If you have similar containers holding similar items that you want to layout in a similar way, maybe those containers should all share a class so the flex styling you apply gets applied to all of them.  
+Hint:  
+- While some of the layout work will require flexbox properties, there may be other CSS properties you need to tweak as well to fully match the spacing and layout of the comp.  `text-align`, `padding`, `margin`, `width`, etc  
 
 As a class, let's do some wireframing on the comp we're trying to match.  
 What are the groupings of elements we're trying to adjust the layout of? Lets draw a box around each grouping.  
