@@ -18,6 +18,8 @@ You will be recreating a piece of [this site](https://web.archive.org/web/202201
 - The CSS file has the font and colors listed for you. You do not need to import anything for the font, we've done that for you (HTML line 5).
 - Don't worry about the worn design in the background. We will just make the background one solid color.
 
+<br>
+
 ### Iteration 1 (`CSS: Fundamentals` lesson):
 - Do *not* worry about the layout (where elements are on the page) yet! We'll get to that after your Flexbox lesson.
 - Make the text match the font and sizing from the comp
@@ -25,6 +27,7 @@ You will be recreating a piece of [this site](https://web.archive.org/web/202201
 - Make the image sizes match the comp
 - Style the button to match the comp
 
+<br>
 
 ### Iteration 2 (`CSS: Flexbox` lesson):
 GOAL: Use flexbox to control where the elements are on the page in order to make the layout match the comp.  
