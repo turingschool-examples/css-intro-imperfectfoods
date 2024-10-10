@@ -2,7 +2,7 @@
 
 ## Imperfect Foods Comp Recreation
 
-You will be recreating a piece of [this site](https://web.archive.org/web/20220118162321/https://try.imperfectfoods.com/overview). Scroll down to the section titled "How to Shop Imperfect Foods."
+You will be recreating the comp below.
 
 #### The Comp:
 ![desktop](https://user-images.githubusercontent.com/51416773/142955257-7a54498c-c349-41b9-9f22-686aed19e067.png)
