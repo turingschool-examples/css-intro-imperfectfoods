@@ -10,7 +10,8 @@ You will be recreating the comp below.
 ## Set Up Instructions
 1. Fork and clone this repo
 2. `cd` into the directory
-3. Run `open index.html` to view your app in the browser
+3. Run `code .` to open the repo in VS Code
+4. Run `open index.html` to view your app in the browser
 
 ## Instructions
 ### Some notes:
